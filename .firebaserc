@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-base-learn-9a4db": {
+      "hosting": {
+        "angular-angular-firebase": [
+          "fire-base-learn-9a4db"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-base-learn-9a4db"
+  }
+}
